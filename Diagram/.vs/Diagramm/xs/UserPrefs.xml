@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D37D9785-3F79-4083-A8F2-30EA1B8C52B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Diagramm/MainWindow.cs">
+    <Files>
+      <File FileName="Diagramm/Program.cs" Line="11" Column="32" />
+      <File FileName="Diagramm/MainWindow.cs" Line="57" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Diagramm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

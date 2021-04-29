@@ -1,0 +1,5 @@
+/home/kiara21/Projects/Diagramm/Diagramm/bin/Debug/Diagramm.exe
+/home/kiara21/Projects/Diagramm/Diagramm/bin/Debug/Diagramm.pdb
+/home/kiara21/Projects/Diagramm/Diagramm/obj/x86/Debug/Diagramm.csproj.CoreCompileInputs.cache
+/home/kiara21/Projects/Diagramm/Diagramm/obj/x86/Debug/Diagramm.exe
+/home/kiara21/Projects/Diagramm/Diagramm/obj/x86/Debug/Diagramm.pdb
